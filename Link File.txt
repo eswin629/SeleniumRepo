@@ -1,0 +1,18 @@
+Link Selenium:
+
+Maven
+https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java/4.8.0
+
+Chromedriver
+https://googlechromelabs.github.io/chrome-for-testing/
+https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+
+Link Testing:
+https://anupdamoda.github.io/AceOnlineShoePortal/ShoeTypes.html
+
+TestNg Maven
+https://testng.org/doc/maven.html
+
+
+
+==> Taken By: https://www.youtube.com/watch?v=h4J58ZAWMW4
